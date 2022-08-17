@@ -6,7 +6,7 @@ import SwipeableTemporaryDrawer from './Drawer';
 
 
 const StyledHeader = styled(AppBar)`
- background : #bac1e3;
+ background : white;
  height : 70px;
 `;
 

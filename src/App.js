@@ -8,7 +8,6 @@ import InfoHeader from "./Components/InfoHeader";
 import Articals from "./Components/Articals";
 import Footer from "./Components/Footer";
 import { useState, useEffect } from "react";
-
 const Container = styled(Box)(({ theme }) => ({
   width: "60%",
   margin: "40px auto 0 auto",
